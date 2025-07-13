@@ -13,11 +13,11 @@ Windows Registry Editor Version 5.00
 "LinkedAccountEnabled"=dword:00000000
 "ProactiveAuthWorkflowEnabled"=dword:00000000
 "WebToBrowserSignInEnabled"=dword:00000000
-"EdgeManagementEnabled"=dword:00000000
+"EdgeManagementEnabled"=dword:00000001
 "EdgeManagementExtensionsFeedbackEnabled"=dword:00000000
 "MAMEnabled"=dword:00000000
-"PasswordGeneratorEnabled"=dword:00000000
-"PasswordRevealEnabled"=dword:00000000
+"PasswordGeneratorEnabled"=dword:00000001
+"PasswordRevealEnabled"=dword:00000001
 "PasswordMonitorAllowed"=dword:00000000
 "RelatedWebsiteSetsEnabled"=dword:00000000
 "ScarewareBlockerProtectionEnabled"=dword:00000000
